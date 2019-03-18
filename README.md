@@ -1,6 +1,7 @@
 # AngularComlinkLazyloadExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+Most of the code here is based on [Enjoyable WebWorkers in Angular](https://medium.com/lacolaco-blog/enjoyable-webworkers-in-angular-41cfeb0e6519).
 
 ## Development server
 
